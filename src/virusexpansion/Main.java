@@ -2,9 +2,9 @@ package virusexpansion;
 
 /**
  *
- * @author santi
+ * @author Santiago Pérez Gómez
  */
-public class VirusExpansion {
+public class Main {
 
     /**
      * @param args the command line arguments
